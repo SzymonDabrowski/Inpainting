@@ -11,7 +11,7 @@ Changes:
 - added gitignore
 
 Fixed problems:
-- cursive image (inapinted image preview) is now straigth
+- cursive image (inpainted image preview) is now straight
 - cursive mask (as above)
 - too big mask applied to the image
 - upside-down and left-right reversed image
