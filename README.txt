@@ -2,7 +2,7 @@
 
 Though there are some bugs to fix, program works properly: it inpaints data in places marked by user.
 This was the main purpose of writing this application and it is done. Due to lack of time it will
-stay as for some time.
+stay as is for some time.
 
 Changes:
 - tabs changed to spaces
